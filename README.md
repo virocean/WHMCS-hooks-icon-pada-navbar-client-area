@@ -9,6 +9,6 @@ Caranya cukup dengan tambahkan hooks saja jadi waktu ada update-an tidak ikut hi
 Berikut cara menambahkan icon pada navbar whmcs templete six
 1. Masuk ke panel hosting anda
 2. masuk ke path WHMCS/include/hooks
-3. Kemudian buat file .php dengan nama terserah atau copy paste file whmcs-navbar-icon.php
+3. Kemudian buat file .php dengan nama terserah atau copy paste file hooks-icon-navbar-whmcs.php
 
 sudah deh
